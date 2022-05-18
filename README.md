@@ -5,7 +5,7 @@
 - Code Quality: ```None```%
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnjanaMadu/PyInsideTG)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RxturnZ/PyInsideTG)
 
 ### 🎯 Credits
 - For [me](https://github.com/AnjanaMadu) cuz I rewrote the all code again.
